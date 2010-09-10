@@ -5,7 +5,7 @@ use strict;
 
 my @properties;
 
-$JSON::PP56::VERSION = '1.08';
+$JSON::PP56::VERSION = '2.00';
 
 BEGIN {
 
