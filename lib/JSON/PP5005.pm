@@ -128,9 +128,13 @@ __END__
 
 JSON::PP5005 - Helper module in using JSON::PP in Perl 5.005
 
+=head1 SYNOPSIS
+
+Do not use this directly! See L<JSON::PP>
+
 =head1 DESCRIPTION
 
-JSON::PP calls internally.
+C<JSON::PP> calls internally.
 
 =head1 AUTHOR
 
