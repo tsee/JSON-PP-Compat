@@ -1,4 +1,5 @@
 Changes
+lib/JSON/PP/Compat.pm
 lib/JSON/PP5005.pm
 lib/JSON/PP56.pm
 lib/JSON/PP58.pm
